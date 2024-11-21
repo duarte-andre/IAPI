@@ -28,7 +28,7 @@
             </div>
             <div class="img-txt">
               <img
-                src="https://scontent.fcpq4-1.fna.fbcdn.net/v/t1.6435-9/68624698_1093512864186402_4052664568512512000_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0327a3&_nc_eui2=AeEnpaiuMVOGDWf0v0XNO_jz5o4yhjoUHMrmjjKGOhQcyuQQqo41QZlpe1u4i7mXRCq8r6tugA4X3hGJ8lx3QUmQ&_nc_ohc=pkujnOfd3gMQ7kNvgFSqtYb&_nc_ht=scontent.fcpq4-1.fna&_nc_gid=AxDELI0VrZ2VGOenxa68dJa&oh=00_AYAcIST5XyU_bZ2iDNtlcEz8ilcL-ABJIdk7rkKNBkStpw&oe=672CDE05"
+                src="https://scontent.fcgh51-1.fna.fbcdn.net/v/t1.6435-9/58622748_1016841341853555_2634545867217960960_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0b6b33&_nc_eui2=AeHyvQinK8EpFKxufp_EqALVDw4QxxpJi4gPDhDHGkmLiBu0DsqTAWmyOY7h5YtjmdMU0b52-szexpozrP3qhK6f&_nc_ohc=8fyMSpH-H_kQ7kNvgGTMAp7&_nc_zt=23&_nc_ht=scontent.fcgh51-1.fna&_nc_gid=AEii2DAj44341WDRTyrYOiu&oh=00_AYCP8A5oT_OZlUaXgkKiK-qjWI8kZRqzRrTPpWhJDSK4Xg&oe=676718BA"
                 alt="Imagem complementar"
               />
             </div>
@@ -127,16 +127,16 @@
           </p>
           
         </div>
-        <div class="img-proj" style="margin:0px 55%; margin-top: -310px;">
+        <div class="img-proj" style="margin:0px 58%; margin-top: -270px;">
             <img width="300px" style="border-radius: 10px;"
-                src="https://scontent.fcpq4-1.fna.fbcdn.net/v/t1.6435-9/80640878_1195900717280949_653876214963896320_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0327a3&_nc_eui2=AeHHxiZO6xhd4Ju14P1RL693DlhPV7ey6j4OWE9Xt7LqPnjv9mjEjMjNRUo7HcQJp91fUder-THnTesN1Aafezid&_nc_ohc=1KwKBp5rf-gQ7kNvgGL-R2k&_nc_zt=23&_nc_ht=scontent.fcpq4-1.fna&_nc_gid=ASPqB558llHqJSW7bp7Rxx3&oh=00_AYCTcYNHFOyDE9vXWjLVHynPV7XVrQdbs0xP-PhSdpGbHg&oe=6738E1E0"
+                src="https://scontent.fgru11-1.fna.fbcdn.net/v/t1.6435-9/82792120_1229334757270878_6704409709576716288_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0b6b33&_nc_eui2=AeEi2-HtYovRJEZTivy8kZs1ZT1TH6CKNlJlPVMfoIo2UqIfImmEodwnfRO2F_zjQTqmZmIS9Ff7B6z7q84gwbZO&_nc_ohc=0xNKSc7bDIsQ7kNvgE0N4cG&_nc_zt=23&_nc_ht=scontent.fgru11-1.fna&_nc_gid=A-2UVtgj8NorJ-TW4LSYbHp&oh=00_AYAJasl0ZD_TVgYKKkIIfQ128TowCLPpkZYiiMQvWmBrOA&oe=67673738"
                 alt="Imagem complementar"
               />
         </div>
         <br>
         <div class="img-proj2" style="margin:0px 22%; margin-top: 100px; ">
             <img width="300px" style="border-radius: 10px;"
-                src="https://scontent.fcpq4-1.fna.fbcdn.net/v/t1.6435-9/82500854_1216646585206362_4445687718575341568_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0327a3&_nc_eui2=AeFCl9C41StztM2EokkzDLJ01stPPkoCXT7Wy08-SgJdPru3PH1BCEbEIAjNqIkD4mTR27ICJLLsCrnlQf2g0-FW&_nc_ohc=_o5T54wpAWEQ7kNvgFpRrS7&_nc_zt=23&_nc_ht=scontent.fcpq4-1.fna&_nc_gid=A3Sfub7hgRi9wOXy1d47klt&oh=00_AYAW5DL42iWk3_n06-4mYVmGpQhgLy2vaqZ0PP7b6rDrRw&oe=6738DA92"
+                src="https://scontent.fcgh28-1.fna.fbcdn.net/v/t1.6435-9/82500854_1216646585206362_4445687718575341568_n.png?_nc_cat=109&ccb=1-7&_nc_sid=0b6b33&_nc_eui2=AeFCl9C41StztM2EokkzDLJ01stPPkoCXT7Wy08-SgJdPru3PH1BCEbEIAjNqIkD4mTR27ICJLLsCrnlQf2g0-FW&_nc_ohc=XIlhOKoS6jAQ7kNvgEIwiSS&_nc_zt=23&_nc_ht=scontent.fcgh28-1.fna&_nc_gid=AjDIpWX1Cpm4n1CJYXORFd3&oh=00_AYAeDoLjmiW6W-x6k27IGvEALvaeIl_xCBMltRCnTsUYRQ&oe=67673752"
                 alt="Imagem complementar"
               />
         </div>
